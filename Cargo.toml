@@ -4,7 +4,7 @@ version = "0.1.1"
 authors = ["Valentin Brandl <vbrandl@riseup.net>"]
 
 [dependencies]
-clap = "2.31.2"
+clap = "2.33.0"
 rayon = "1.0.1"
 failure = "0.1.1"
 reqwest = "0.8.5"
